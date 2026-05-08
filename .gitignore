@@ -1,5 +1,16 @@
-node_modules/
-target/
-.DS_Store
-.env
+# Eclipse
+.metadata/
 *.log
+
+# Node
+node_modules/
+
+# Build
+dist/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.env
