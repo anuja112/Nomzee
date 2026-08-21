@@ -251,10 +251,8 @@ The database maintains relationships between users, restaurants, food items, car
 
 * JWT-based authentication
 * Password hashing with Spring Security
-* Online payment integration
 * Cloud-based image storage
 * Real-time order tracking
-* Admin dashboard
 * Food categories and advanced search
 * Ratings and reviews
 * Mobile application
