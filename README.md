@@ -1,4 +1,4 @@
-# 🍽️ NOMZEE
+# NOMZEE 🍽️
 
 ### Full-Stack Food Delivery Platform
 
@@ -8,9 +8,9 @@ The application is built using **React.js, Spring Boot, REST APIs, and MySQL**, 
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 Customer
+### Customer
 
 * User registration and login
 * Browse available food items
@@ -22,7 +22,7 @@ The application is built using **React.js, Spring Boot, REST APIs, and MySQL**, 
 * Track order progress
 * View previous orders
 
-### 🏪 Restaurant / Business
+### Restaurant / Business
 
 * Business account registration and login
 * Add and manage restaurants
@@ -32,7 +32,7 @@ The application is built using **React.js, Spring Boot, REST APIs, and MySQL**, 
 * Control food availability
 * View restaurant-specific food items through the dashboard
 
-### 🔐 Authentication & Access Control
+### Authentication & Access Control
 
 * Session-based authentication using `JSESSIONID`
 * Role-based access for `CUSTOMER` and `BUSINESS`
@@ -41,7 +41,7 @@ The application is built using **React.js, Spring Boot, REST APIs, and MySQL**, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category    | Technology                 |
 | ----------- | -------------------------- |
@@ -59,7 +59,7 @@ The application is built using **React.js, Spring Boot, REST APIs, and MySQL**, 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 NOMZEE follows a **three-tier architecture**:
 
@@ -86,7 +86,7 @@ This separation keeps the frontend, application logic, and database operations o
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 NOMZEE/
@@ -118,7 +118,7 @@ NOMZEE/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -188,7 +188,7 @@ http://localhost:5173
 
 ---
 
-## 📡 REST API
+## REST API
 
 | Method | Endpoint            | Purpose                 |
 | ------ | ------------------- | ----------------------- |
@@ -207,7 +207,7 @@ http://localhost:5173
 
 ---
 
-## 🗄️ Database
+## Database
 
 The application uses MySQL with JPA/Hibernate.
 
@@ -227,27 +227,23 @@ The database maintains relationships between users, restaurants, food items, car
 
 ---
 
-## 📸 Screenshots
+## Project Previews
 
-### Home Page
+### 1. Business Dashboard
+![Business Dashboard](assets/screenshots/business_dashboard.png)
 
-<!-- Add screenshot here -->
+### 2. Menu Page
+![Menu Page](assets/screenshots/menu.png)
 
-### Menu
+### 3. Shopping Cart
+![Shopping Cart](assets/screenshots/cart.png)
 
-<!-- Add screenshot here -->
-
-### Cart & Order Summary
-
-<!-- Add screenshot here -->
-
-### Business Dashboard
-
-<!-- Add screenshot here -->
+### 4. Order Page
+![Order Page](assets/screenshots/order.png)
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * JWT-based authentication
 * Password hashing with Spring Security
@@ -259,7 +255,7 @@ The database maintains relationships between users, restaurants, food items, car
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 **Anuja Ghosal**
 [LinkedIn](https://www.linkedin.com/in/anuja-ghosal-10b10b2b2/)
